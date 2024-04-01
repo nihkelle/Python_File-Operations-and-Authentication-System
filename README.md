@@ -1,9 +1,9 @@
-# Python - File Operations and Authentication System | Data Handling and Security Essentials in Python
+# 🐍 Python - File Operations and Authentication System | Data Handling and Security Essentials in Python
 
 ## Description
 - This project involved developing a Python-based toolset focused on data handling and system security. Core components included creating a robust CSV file parser to read and process complex datasets, and constructing a secure user authentication system with comprehensive error logging functionality. The work demonstrated my ability to manage data workflows, implement essential security features, and maintain detailed records of system interactions—key competencies in building reliable and user-centric software solutions. This project underscores my proficiency in Python programming and my commitment to upholding best practices in data integrity and application security.
 
-# CVS Data Parser
+# 💻 CVS Data Parser
 
 <b> Code Overview: </b>
 - This code demonstrates how to read from a CSV file using Python's `csv` module, iterating over rows in the file and converting each row into a set to possibly eliminate duplicates or for other set-related operations.
@@ -30,7 +30,7 @@ Exception Handling:
 Data Structure Usage: 
 - Developed the ability to utilize sets to process and manage unique data elements efficiently, enhancing my data preprocessing skills.
 
-# User Authentication System 
+# 👥 User Authentication System 
 
 <b> Code Overview: </b>
 - This section implements a simple authentication system using a dictionary to store username-password pairs, includes user input for login credentials, and performs validation with basic error handling and logging to a file.
